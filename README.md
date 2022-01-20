@@ -1,3 +1,10 @@
+# Final Project Kelompok 2
+Rafiq Fajar Ramadhan 20.83.0491
+
+Muhammad Sabirin 20.83.0491
+
+Muhammad Wildan 20.83.0514
+
 # Deskripsi Singkat 
 
 Encoder dan Decoder base 64 
@@ -20,6 +27,9 @@ tkinter as tk
 tkinter.filedialog
 
 tkinter.messagebox
+
+# Persentase Program
+![Screenshot_5](https://user-images.githubusercontent.com/94223016/150326053-a56be6a9-c676-4808-828a-443538a98e3c.jpg)
 
 
 # Demo Encoder dan Decoder base 64
