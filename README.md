@@ -22,11 +22,7 @@ os.path
 
 sys
 
-tkinter as tk
-
-tkinter.filedialog
-
-tkinter.messagebox
+tkinter
 
 # Persentase Program
 ![Screenshot_5](https://user-images.githubusercontent.com/94223016/150326053-a56be6a9-c676-4808-828a-443538a98e3c.jpg)
