@@ -1,9 +1,9 @@
 # Final Project Kelompok 2
-Rafiq Fajar Ramadhan 20.83.0491
+Rafiq Fajar Ramadhan  20.83.0491
 
-Muhammad Sabirin 20.83.0491
+Muhammad Sabirin      20.83.0491
 
-Muhammad Wildan 20.83.0514
+Muhammad Wildan       20.83.0514
 
 # Deskripsi Singkat 
 
